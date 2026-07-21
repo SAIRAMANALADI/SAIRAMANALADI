@@ -7,7 +7,7 @@ interfaces built to feel alive. Currently deep in ML/AI.
 
 —
 
-**Focus:** Rust · TypeScript · Python · React · Next.js · Three.js
+**Focus:** java · TypeScript · Python · React · Next.js · Three.js
 
 **Now:** 3rd year CSE, VVIT (JNTUK) — open to ML/AI internships
 
