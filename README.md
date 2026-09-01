@@ -1,16 +1,26 @@
 # Sai Ramana Ladi
 
-Frontend developer & systems thinker, based in Guntur, India.
+Full-stack developer experienced in building web applications with React, Next.js, Node.js, and FastAPI[cite: 1]. Focused on responsive interfaces, REST API design, database integration (PostgreSQL, Redis), and automated CI/CD workflows[cite: 1].
 
-I work at the edge of two things — low-level systems in Rust, and
-interfaces built to feel alive. Currently deep in ML/AI.
+---
 
-—
+**Technical Skills**
 
-**Focus:** java · TypeScript · Python · React · Next.js · Three.js
+* **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Three.js, GSAP, HTML5, CSS3[cite: 1]
+* **Backend:** Node.js, Python, FastAPI, RESTful API design, LLM API integration (Groq, Hugging Face)[cite: 1]
+* **Databases:** PostgreSQL, Redis, pgvector, SQL, NoSQL fundamentals[cite: 1]
+* **DevOps & Tools:** Git, GitHub Actions (CI/CD), Docker basics, Vercel[cite: 1]
+* **Other:** Rust, Java, Data Structures & Algorithms[cite: 1]
 
-**Now:** 3rd year CSE, VVIT (JNTUK) — open to ML/AI internships
+---
 
-—
+**Education**
 
-[LinkedIn](https://www.linkedin.com/in/sai-ramana-ladi-a53562349) · [Mail](mailto:24bq1a05p6@vvit.net) · [Discord](https://discord.gg/J3vvht7Rv3)
+* **B.Tech in Computer Science & Engineering** — Vasireddy Venkatadri Institute of Technology (VVIT), JNTUK (Expected 2028)[cite: 1]
+* **Coursework:** Data Structures & Algorithms, Operating Systems, DBMS, Software Engineering, Software Project Management[cite: 1]
+
+---
+
+**Links**
+
+[LinkedIn](https://www.linkedin.com/in/sai-ramana-ladi-a68131317/) · [Email](mailto:24bq1a05p6@vvit.net)[cite: 1] · [Discord](https://discord.com/users/837260533355053076)
